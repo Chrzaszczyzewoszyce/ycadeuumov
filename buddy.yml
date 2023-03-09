@@ -1,6 +1,6 @@
-- pipeline: "joyuxgsalr"
+- pipeline: "ftyrvwqsfy"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  trigger_condition: "VAR_GREATER_THAN"
+  trigger_condition: "VAR_GREATER_THAN_OR_EQUAL"
   trigger_variable_value: "1.0"
   trigger_variable_key: "variableKey"
