@@ -1,4 +1,7 @@
-- pipeline: "xvppkyavag"
+- pipeline: "kylnisetho"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  trigger_condition: "ON_CHANGE"
+  trigger_condition: "ON_CHANGE_AT_PATH"
+  trigger_condition_paths:
+  - "/path1"
+  - "/path2"
