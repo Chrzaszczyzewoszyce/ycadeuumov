@@ -1,4 +1,4 @@
-- pipeline: "bdgaxhsjgj"
-  trigger_mode: "MANUAL"
-  ref_type: "TAG"
-  ref_name: "v700"
+- pipeline: "kycwxoymel"
+  trigger_mode: "SCHEDULED"
+  ref_type: "NONE"
+  cron: "5 * * * *"
