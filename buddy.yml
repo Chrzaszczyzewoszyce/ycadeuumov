@@ -1,7 +1,6 @@
-- pipeline: "kylnisetho"
+- pipeline: "hvavotljfw"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  trigger_condition: "ON_CHANGE_AT_PATH"
-  trigger_condition_paths:
-  - "/path1"
-  - "/path2"
+  trigger_condition: "VAR_IS"
+  trigger_variable_value: "variableValue"
+  trigger_variable_key: "variableKey"
