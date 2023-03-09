@@ -1,0 +1,4 @@
+- pipeline: "aradhjgqxw"
+  trigger_mode: "MANUAL"
+  ref_type: "PULL_REQUEST"
+  ref_name: "pull/1"
