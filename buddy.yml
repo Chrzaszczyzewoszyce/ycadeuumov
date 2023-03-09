@@ -1,15 +1,10 @@
-- pipeline: "jdbcfovkmq"
+- pipeline: "kmhrwajblw"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
   actions:
   - action: "Sleep 15 seconds"
     type: "SLEEP"
     sleep_in_sec: 1
-    trigger_condition: "DATETIME"
-    zone_id: "Europe/Warsaw"
-    trigger_hours:
-    - 4
-    - 18
-    trigger_days:
-    - 4
-    - 7
+    trigger_condition: "SUCCESS_PIPELINE"
+    trigger_project_name: "ycadeuumov"
+    trigger_pipeline_name: "yjbqtrxole"
