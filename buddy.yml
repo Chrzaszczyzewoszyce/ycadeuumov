@@ -1,4 +1,4 @@
-- pipeline: "jpwjfqhfjw"
+- pipeline: "xvppkyavag"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  trigger_condition: "ALWAYS"
+  trigger_condition: "ON_CHANGE"
