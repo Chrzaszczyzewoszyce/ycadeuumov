@@ -1,0 +1,5 @@
+- pipeline: "onqivqqtko"
+  trigger_mode: "SCHEDULED"
+  ref_type: "PULL_REQUEST"
+  ref_name: "pull/2"
+  cron: "5 * * * *"
