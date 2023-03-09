@@ -1,3 +1,4 @@
-- pipeline: "uvrhmlsqkv"
+- pipeline: "hhnvnmdcgm"
   trigger_mode: "MANUAL"
-  ref_type: "NONE"
+  ref_type: "BRANCH"
+  ref_name: "master"
