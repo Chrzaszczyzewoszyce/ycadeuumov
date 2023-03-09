@@ -1,6 +1,6 @@
-- pipeline: "ptwlpbsodt"
+- pipeline: "ppimcgebqu"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  trigger_condition: "VAR_IS_NOT"
+  trigger_condition: "VAR_CONTAINS"
   trigger_variable_value: "variableValue"
   trigger_variable_key: "variableKey"
