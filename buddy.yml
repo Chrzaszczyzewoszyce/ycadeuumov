@@ -1,5 +1,5 @@
-- pipeline: "yofpsjqvop"
+- pipeline: "jktvrxjbed"
   trigger_mode: "SCHEDULED"
-  ref_type: "BRANCH"
-  ref_name: "master"
+  ref_type: "WILDCARD"
+  ref_name: "*"
   cron: "5 * * * *"
