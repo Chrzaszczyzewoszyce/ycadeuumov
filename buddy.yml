@@ -1,7 +1,7 @@
-- pipeline: "ubfbiemnel"
+- pipeline: "drhrfelnra"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  trigger_condition: "DAY"
+  trigger_condition: "HOUR"
   zone_id: "Europe/Warsaw"
   trigger_hours:
   - 4
