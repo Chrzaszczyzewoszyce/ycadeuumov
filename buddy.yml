@@ -1,10 +1,10 @@
-- pipeline: "pfqwugsgbn"
+- pipeline: "kolekpbuly"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
   actions:
   - action: "Sleep 15 seconds"
     type: "SLEEP"
     sleep_in_sec: 1
-    trigger_condition: "VAR_IS_NOT"
+    trigger_condition: "VAR_CONTAINS"
     trigger_variable_value: "variableValue"
     trigger_variable_key: "variableKey"
