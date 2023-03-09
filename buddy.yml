@@ -1,15 +1,3 @@
-- pipeline: "xglepmrqqd"
+- pipeline: "uvrhmlsqkv"
   trigger_mode: "MANUAL"
   ref_type: "NONE"
-  actions:
-  - action: "Sleep 15 seconds"
-    type: "SLEEP"
-    sleep_in_sec: 1
-    trigger_condition: "HOUR"
-    zone_id: "Europe/Warsaw"
-    trigger_hours:
-    - 4
-    - 18
-    trigger_days:
-    - 4
-    - 7
